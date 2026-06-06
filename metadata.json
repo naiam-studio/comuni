@@ -1,0 +1,8 @@
+{
+  "name": "Comuni.com.ar",
+  "description": "Una plataforma minimalista para la toma de decisiones participativa en comunidades y empresas, impulsada por inteligencia colectiva.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
